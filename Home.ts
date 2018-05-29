@@ -27,7 +27,7 @@ function summator(...params: ISimmator[]): number {
 	
 	return count;
 }
-
+//привет раз
 console.log('summator: ', summator(1, 2, 3));
 console.log('summator: ', summator('1', '2', '3'));
 console.log('summator: ', summator(1, '2', 3));
